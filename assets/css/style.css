@@ -217,7 +217,7 @@ button:focus {
 
 .btn-secondary:hover {
     background-color: #666666;
-    color: #ffffff;
+    color: #000000;
 }
 
 .btn-secondary.disabled,
