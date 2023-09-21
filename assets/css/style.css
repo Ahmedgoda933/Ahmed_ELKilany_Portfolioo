@@ -217,7 +217,7 @@ button:focus {
 
 .btn-secondary:hover {
     background-color: #666666;
-    color: #000000;
+    color: #ffffff;
 }
 
 .btn-secondary.disabled,
@@ -820,7 +820,7 @@ button:focus {
 
 /* Counter */
 .counter-box {
-    border: 1px solid #ffffff;
+    border: 1px solid #424242;
     padding: 28px;
     border-radius: 10px;
     -webkit-transition: all 0.3s ease;
@@ -879,7 +879,7 @@ button:focus {
 
 .bg-cta {
     position: relative;
-    background-image: url(../images/banners/سسسa.png);
+    background-image: url(../images/banners/cover.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -891,7 +891,7 @@ button:focus {
 }
 
 .btnnn-outline-custom {
-    border: 2px solid #0d809d;
+    border: 2px solid #131313;
 }
 
 .btnnn {
@@ -900,7 +900,7 @@ button:focus {
     font-weight: 700;
     transition: all 0.5s;
     letter-spacing: 0.6px;
-    color: rgb(255, 255, 255);
+    color: rgb(30, 30, 30);
     box-shadow: none !important;
     text-transform: uppercase;
     outline: none !important;
@@ -913,13 +913,13 @@ button:focus {
 
 .btnnn:hover {
     background-color: white;
-    color: #0d809d;
-    border-color: white;
+    color: #191919;
+    border-color: 191919;
     border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 
 /* Customers Testimonial --*/
