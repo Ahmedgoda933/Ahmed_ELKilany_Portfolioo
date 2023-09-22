@@ -794,7 +794,7 @@ button:focus {
 .skills .progressbar {
     width: 100%;
     position: relative;
-    background-color: #181818 !important;
+    background-color: #ffffff !important;
     box-shadow: inset 0 1px 1px rgba(252, 252, 252, 0.1);
 }
 
