@@ -5,8 +5,9 @@
 .btn-primary:hover { color:#ffffff; background-color:#181818; }
 .btn-primary:before,.contact .contact-form .btn-primary:hover { content:""; background-color:#121212
     ; }
+    .proggress {background-color: #ffffff;}
     .switcher-wrapper { background-color: #121212;}
-::selection,.switcher-trigger,.separator:after,.education-box:after,.experince-box:after,.education-box:hover:before, .experince-box:hover:before,.proggress,.grid li figure div,
+::selection,.switcher-trigger,.separator:after,.education-box:after,.experince-box:after,.education-box:hover:before, .experince-box:hover:before,.grid li figure div,
 .carousel .carousel-indicators li,.carousel .carousel-control-next:hover,.carousel .carousel-control-prev:hover,.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active,
 .portfolio .portfolio-wrap .portfolio-links a:hover,.contact .card-body:hover .card-icon i,.back-to-top:hover {background-color:#000000 !important;}
 
