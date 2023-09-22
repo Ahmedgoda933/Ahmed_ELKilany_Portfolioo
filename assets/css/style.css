@@ -773,6 +773,10 @@ button:focus {
     z-index: -1;
 }
 
+.proggress {
+    background-color: white;
+}
+
 .education-box:hover:before,
 .experince-box:hover:before {
     background-color: #666666;
