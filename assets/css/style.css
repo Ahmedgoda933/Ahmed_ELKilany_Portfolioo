@@ -801,6 +801,7 @@ button:focus {
 .skills .proggress {
     height: 20px;
     width: 10px;
+    background-color: #fafafa;
 }
 
 .skills .percentCount {
